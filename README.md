@@ -54,7 +54,7 @@ This repository contains a comprehensive data mining project. The project involv
 To run the analyses and visualizations, ensure you have Python and the required libraries installed. You can execute the provided code snippets in a Jupyter notebook or any Python environment.
 
 ## File
-- `data-mining-project.pdf`: Contains all the code and analyses used in this project.
+- `Data-Mining-Project-1.pdf`: Contains all the code and analyses used in this project.
 
 ## Contributing
 Contributions are welcome! If you have suggestions for improving the analysis or additional queries, please create a pull request or open an issue.
